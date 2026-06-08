@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Arshdeep Singh 👋
 
-<!--
-**ArshdeepSingh123-tech/ArshdeepSingh123-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Data Scientist passionate about Python, SQL, Data Analysis, and Machine Learning.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Statistics
+- Scikit-Learn
+- Machine Learning
+
+## 📊 Projects
+- IPL Data Analysis
+- Smartphone Data Analysis
+- SQL Practice Questions
+
+## 🎯 2026 Goals
+- Build 5 Machine Learning Projects
+- Learn Power BI
+- Become a Data Scientist
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/arshdeep-singh-a08a883a5?utm
+- Email: arshsinghsaini04@gmail.com
