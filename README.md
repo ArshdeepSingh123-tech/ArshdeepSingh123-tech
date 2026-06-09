@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./profile.jpg" width="180" alt="Arshdeep Singh"></p>
+<img src="https://github.com/ArshdeepSingh123-tech/ArshdeepSingh123-tech/blob/main/profile.jpg.jpeg?raw=true" width="180" alt="Arshdeep Singh"></p>
 
 <h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
 
