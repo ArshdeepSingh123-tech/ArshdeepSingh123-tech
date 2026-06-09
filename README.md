@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="profile.jpg" width="180" alt="Arshdeep Singh">
+</p>
+
 <h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
 
 <h3 align="center">
 Aspiring Data Scientist | Python | SQL | Machine Learning
 </h3>
-
-<p align="center">
-Building projects and documenting my Data Science journey 🚀
-</p>
 
 ## 🚀 About Me
 Aspiring Data Scientist passionate about Python, SQL, Data Analysis, and Machine Learning.
